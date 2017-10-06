@@ -1,4 +1,4 @@
-# Salesforce Marketing Cloud - Service Cloud Custom Split Activity
+# Salesforce Marketing Cloud - Service Cloud Custom Split Activity SARA
 
 ## Introduction
 
